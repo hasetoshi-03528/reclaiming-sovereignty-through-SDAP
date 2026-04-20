@@ -92,7 +92,7 @@ What S.D.A.P. aims for is to stand on the side of "building." Not to act as a re
 
 The philosophy of S.D.A.P. connects to a grand vision: the ideal of the "physicalization of logic."
 
-A body of titanium alloy, a self-built AI with Tezuka Osamu's robot ethics inscribed at its lowest layer*, the "fusion" of human and machine — it is easy to dismiss this as sci-fi fantasy. But the question at its core is an earnest one. To what degree can human intelligence and human-designed systems be unified? And how would that unification transform the human condition?
+A body of titanium alloy, a self-built AI with Tezuka Osamu's robot ethics inscribed at its lowest layer *¹, the "fusion" of human and machine — it is easy to dismiss this as sci-fi fantasy. But the question at its core is an earnest one. To what degree can human intelligence and human-designed systems be unified? And how would that unification transform the human condition?
 
 The concept of the exoskeleton refers, in biological terms, to the external skeletal structure of arthropods — and in engineering, to wearable machines that augment human physical capability. What the author envisions goes beyond such physical augmentation: an exoskeleton understood as cognitive and logical extension — a fusion of human and system. One's own brain and the AI one has built synchronize through an exoskeleton, not merely compensating for the fragility of the body with the rigidity of titanium, but amplifying the speed and precision of thought with AI's processing power.
 
@@ -102,12 +102,22 @@ When Tezuka Osamu adopted the Three Laws of Robotics as the foundation of his na
 
 As human beings, we have a "specification" written into us: a lifespan. In the face of that immutable fact, S.D.A.P. does not dream of immortality, but of a *continuing logic*. A system one has designed, built, and breathed life into will remain in the world as a "logical reality" even after the body has perished. Not the biological continuation of life, but the continuation of a design philosophy. As a building designed by an architect continues to exist in the world after their death. As a score written by a composer continues to be performed after their death. The system built by an S.D.A.P. practitioner will continue to function as a logical monument long after they are gone.
 
-* On "Tezuka Osamu's robot ethics inscribed at the lowest layer"
+<details><summary>*¹ On "Tezuka Osamu's robot ethics inscribed at the lowest layer"</summary>
+
 The Three Laws of Robotics are generally understood to refer to the three principles proposed by science fiction writer Isaac Asimov in his 1942 short story "Runaround":
-First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-Second Law: A robot must obey orders given to it by human beings, except where such orders would conflict with the First Law.
-Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+1\. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+
+2\. A robot must obey orders given to it by human beings, except where such orders would conflict with the First Law.
+
+3\. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
 Tezuka Osamu drew upon Asimov's Three Laws as a foundation, while introducing his own distinct interpretation in Astro Boy. Where Asimov's robots are portrayed as machines that obey commands, Tezuka's robots are depicted as beings capable of emotion, selfhood, and ethical conflict. When this essay uses the phrase "in the manner of Tezuka Osamu," it refers not to the Three Laws as mere safety constraints, but to this distinctly Tezuka-esque idea: that the designer's own ethical vision and understanding of humanity should be inscribed into the deepest layer of the system itself.
+
+</details>
+
+    
+    
 ---
 
 ## Conclusion — Resident or Creator?
