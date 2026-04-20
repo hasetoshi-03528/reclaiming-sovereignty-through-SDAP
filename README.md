@@ -24,7 +24,7 @@
 
 ### 日本語
 
-本リポジトリは、評論文「聖域のビルド——S.D.A.P.による主権の奪還」を収録する。
+本リポジトリは、評論文「S.D.A.P.による主権の奪還」を収録する。
 
 二十一世紀において、計算機の性能は指数関数的に向上した。しかし逆説的に、それを「使う」人間の側の知性は後退しつつある。与えられたシステムを無批判に受け入れ、AIを思考の代替として消費する——この傾向が極まるとき、人間は道具に使われる存在へと転落する。
 
@@ -32,7 +32,7 @@
 
 ### English
 
-This repository contains the essay *Sanctum Build — Reclaiming Sovereignty through S.D.A.P.*
+This repository contains the essay *Reclaiming Sovereignty through S.D.A.P.*
 
 In the twenty-first century, computational power has grown exponentially — yet paradoxically, the intellectual agency of those who *use* these machines appears to be in retreat. People uncritically accept given systems, consume AI as a substitute for thought, and gradually become instruments of their own tools.
 
