@@ -2,9 +2,9 @@
 # Reclaiming Sovereignty through S.D.A.P.
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg">
-  <img alt="Language: JA/EN" src="https://img.shields.io/badge/language-JA%20%7C%20EN-brightgreen">
-  <img alt="Philosophy: S.D.A.P." src="https://img.shields.io/badge/philosophy-S.D.A.P.-black">
+  <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/license-CC BY 4.0-orange.svg">
+  <img alt="Language: JA/EN" src="https://img.shields.io/badge/language-JA%20%7C%20EN-blue">
+  <img alt="Philosophy: S.D.A.P." src="https://img.shields.io/badge/philosophy-S.D.A.P.-lightblue">
 </p>
 
 ---
