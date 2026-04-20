@@ -135,5 +135,5 @@ The essay is situated within the following philosophical contexts:
 
 ## ライセンス / License
 
-This work is licensed under the [MIT License](./LICENSE).  
-本著作物は [MITライセンス](./LICENSE) のもとで公開されています。
+This work is licensed under the [CC BY 4.0 License](./LICENSE).  
+本著作物は [CC BY 4.0ライセンス](./LICENSE) のもとで公開されています。
