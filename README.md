@@ -118,7 +118,7 @@ The essay is situated within the following philosophical contexts:
 
 ## 本文 / Full Essay
 
-- 日本語全文 → [`essay_ja.md`](./essay_ja.md)
+- 日本語全文 → [`S.D.A.P.による主権の奪還.docx`](./S.D.A.P.による主権の奪還.docx)
 - English translation → [`essay_en.md`](./essay_en.md)
 
 ---
