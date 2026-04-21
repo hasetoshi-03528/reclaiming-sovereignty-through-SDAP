@@ -42,6 +42,12 @@ In this context, consider again the phenomenon of people with a creator's temper
 
 They are excluded not due to a lack of ability, but due to its excess. Within this paradox lies the core of contemporary intellectual regression. When society demands human beings who function as convenient tools, those who design tools are inevitably pushed to the margins. And it is precisely at those margins that genuine thought is born.
 
+Here, one question must be raised. Why can human beings not stop copying?
+
+The answer is simple. Because copying is easy, safe, and even pleasurable. Imitating the correct answer brings immediate approval, and approval triggers dopamine. Once this circuit is formed, the act of thinking independently becomes recorded in the brain as "risk." It might fail. It might be rejected. It might take too long. To avoid that anxiety, human beings retreat into copying.
+
+But there is a fact being overlooked. A brain that repeats copying gradually loses the circuitry for independent thought. It is the same as a muscle. Without use, it atrophies. Before donning the exoskeleton, one must first accept the discomfort of standing on one's own feet. That discomfort is the only load that strengthens the muscle called thought. The pleasure of copying is the entrance to the death of thinking.
+
 ---
 
 ## III. AI — A Double-Edged Sword
@@ -55,6 +61,16 @@ On the other hand, AI is capable of functioning in an entirely different mode. A
 The question is who decides, and how, whether AI operates in which of these modes. Between those who passively consume AI as an "efficiency tool" and those who actively command it as an "intelligence amplifier," there is a difference as vast as heaven and earth in the quality of the experience — even though both are using the same tool. For the former, AI is the master; for the latter, AI is the servant. And this difference is determined not by differences in the tool's capability, but by the presence or absence of "sovereignty" on the part of the human using it.
 
 What is crucial here is the recognition that dependence on AI and utilization of AI are entirely different acts. A carpenter who uses a hammer does not depend on the hammer — the carpenter *wields* it. The key distinction is that the carpenter understands the characteristics of the hammer deeply and can judge for themselves how it should be used in any given situation. The same applies to AI. Only those who understand how AI reasoning works, grasp its limits and possibilities, and can design what questions to ask in what ways to extract maximum utility, can truly "use" AI in any meaningful sense.
+
+One misunderstanding must be cleared up here. S.D.A.P. does not demand the ascetic discipline of "think everything through on your own."
+
+Think for yourself. But use your weapons.
+
+Donning AI as an exoskeleton is not the abandonment of thought — it is the extension of thought. The human brain has physical limits to its computational capacity. Compensating for those limits with the exoskeleton of AI, and concentrating cognitive resources on higher-order questions — this is the correct use of AI within S.D.A.P.
+
+What matters is the sequence. First, stand on your own feet. Develop your own logic. Then don the exoskeleton. The reverse order is not permitted. For one without their own legs, an exoskeleton is not a prosthetic — it is a cage.
+
+There is no need for the despair of "I can't do this." Train the muscle of thought, and the exoskeleton of AI will expand your range exponentially. It is beyond that point that the path opens toward becoming a creator who defines everything — from the physical layer to the ethical layer.
 
 ---
 
@@ -71,6 +87,14 @@ The **Second Principle** is **Deliberate Abbreviation After Full Comprehension**
 The **Third Principle** is the **Maintenance of Asymmetry with AI**. AI must be treated not as an equal partner, but as a highly capable yet subordinate tool. AI output is always a hypothesis, and the judgment to verify, adopt, or reject it belongs to the human. Even if AI produces a "correct answer," if one cannot explain for oneself why it is correct, that answer must not be adopted — this is the strict discipline of S.D.A.P.
 
 How do these three principles function in practice? Consider software development. Having AI generate code is now a routine act. But when an S.D.A.P. practitioner receives AI-generated code, the first act is not "testing" but "reading." What is this code doing? Why was this algorithm chosen? How are edge cases handled? Critically reading the AI's design thinking, and redesigning where necessary — only through that process does AI function as a true "assistant" in any meaningful sense.
+
+Will those who practice S.D.A.P. end up in isolation? Such a question may arise. Does the pursuit of autonomy mean severance from others?
+
+The answer is no. In fact, the opposite is true.
+
+The relationships among those who copy may appear connected on the surface, but in reality they are nothing more than a chain of mirrors reflecting the same correct answer back and forth. No essential exchange takes place there. But when autonomous individuals meet, what occurs is not copying but resonance — synchronization. Logic that each has independently arrived at through their own process of reasoning intersects, whether by chance or by necessity — and in that moment, a spark of new thought is born that cannot be reduced to either logic alone.
+
+What S.D.A.P. aims for is not the isolated genius. It is a higher-order connection in which autonomous individuals resonate with one another. If you seek fellow travelers, the prerequisite is to first become an autonomous source of transmission yourself. Magnets attract magnets.
 
 ---
 
