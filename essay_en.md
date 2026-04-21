@@ -140,8 +140,6 @@ Tezuka Osamu drew upon Asimov's Three Laws as a foundation, while introducing hi
 
 </details>
 
-    
-    
 ---
 
 ## Conclusion — Resident or Creator?
@@ -157,3 +155,15 @@ Will you remain a resident who simply enjoys a given OS? Or will you become a cr
 This question stands before us not as a technical argument, but as a philosophical proposition that far exceeds the domain of technology: what does it mean to be a *subject* in the contemporary world?
 
 Those who are given a system live within the logic that system defines. Those who design a system live in a world whose logic they have defined themselves. The cold brilliance of titanium promises true freedom — but only to those who have made that decision.
+
+---
+
+## Afterword
+
+This work is a co-creation of human and AI, grounded in the philosophy of S.D.A.P.
+
+The human built the framework. AI provided the substance. Judgment remained with the human throughout. Neither outsourcing nor solitary struggle — but wielding AI as an exoskeleton while keeping the self as subject. This text itself is the record of that practice.
+
+S.D.A.P. is not a concept. It is already running here.
+
+
